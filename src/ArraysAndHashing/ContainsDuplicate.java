@@ -7,10 +7,6 @@ import java.util.stream.IntStream;
 //Find question at bottom or
 //Problem Link:https://leetcode.com/problems/contains-duplicate/description/
 public class ContainsDuplicate {
-    public static void main(String[] args) {
-        int arr[]= IntStream.of(3,1,5,4).toArray();
-        System.out.println(ContainsDuplicateSolution(arr));
-    }
 
     public static boolean ContainsDuplicateSolution(int arr[]){
 

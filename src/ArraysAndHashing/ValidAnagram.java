@@ -2,9 +2,7 @@ package ArraysAndHashing;
 
 public class ValidAnagram {
 
-    public static void main(String[] args) {
-        System.out.println(ValidAnagramSolution("accs","scac"));
-    }
+
 //    Find question at bottom or
 //    Link: https://leetcode.com/problems/valid-anagram/description/
     public static boolean ValidAnagramSolution(String s,String t) {
