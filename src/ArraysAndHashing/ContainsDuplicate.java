@@ -8,10 +8,10 @@ import java.util.stream.IntStream;
 //Problem Link:https://leetcode.com/problems/contains-duplicate/description/
 public class ContainsDuplicate {
 
-    public static boolean ContainsDuplicateSolution(int arr[]){
+    public static boolean ContainsDuplicateSolution(int arr[]) {
 
-        Set<Integer> set=new HashSet<>();
-        for(int num:arr){
+        Set<Integer> set = new HashSet<>();
+        for (int num : arr) {
             if (!set.add(num))
                 return true;
         }
