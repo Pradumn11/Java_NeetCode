@@ -20,7 +20,7 @@ public class AnagramGroup {
         }
         HashMap<String, List<String>> map = new HashMap<>();
         for (String str : list) {
-            char freq[] = new char[26];
+            char freq[] =new char[26];
             for (char a : str.toCharArray()) freq[a - 'a']++;
             String val = String.valueOf(freq);
             if (!map.containsKey(val)) map.put(val, new ArrayList<>());
