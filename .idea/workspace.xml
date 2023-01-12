@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8571e763-4064-4b62-b48c-de6a8e876a4a" name="Changes" comment="&quot;10-01-2023&quot;" />
+    <list default="true" id="8571e763-4064-4b62-b48c-de6a8e876a4a" name="Changes" comment="&quot;10-01-2023&quot;">
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndHashing/kFrequentElemet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
