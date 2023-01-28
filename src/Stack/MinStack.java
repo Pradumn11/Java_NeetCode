@@ -2,6 +2,8 @@ package Stack;
 
 import java.util.Stack;
 
+//Question
+//https://leetcode.com/problems/min-stack/description/
 public class MinStack {
     Stack<Integer> stack1 = new Stack<Integer>();
     Stack<Integer> min_val = new Stack<Integer>();
