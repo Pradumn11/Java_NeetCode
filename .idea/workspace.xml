@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8571e763-4064-4b62-b48c-de6a8e876a4a" name="Changes" comment="&quot;10-01-2023&quot;">
-      <change afterPath="$PROJECT_DIR$/src/ArraysAndHashing/ProductExceptSelf.java" afterDir="false" />
+    <list default="true" id="8571e763-4064-4b62-b48c-de6a8e876a4a" name="Changes" comment=" &quot;recursion 8-03-2023&quot;">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SearchElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/checkSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +58,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Pradumn/Desktop/project/KafkaDemo"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +82,217 @@
       <option name="project" value="LOCAL" />
       <updated>1673364342934</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" &quot;ConsecutiveSequence-14-01-2023&quot;">
+      <created>1673711665757</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673711665757</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" &quot;LingestCommonPrefix-15-01-2023&quot;">
+      <created>1673798867739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673798867739</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" &quot;RemoveDuplicateElement-16-01-2023&quot;">
+      <created>1673889499608</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673889499608</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" &quot;2-pointer-TwoSum-17-01-2023&quot;">
+      <created>1673978120695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673978120695</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" &quot;2-pointer-ValidPalindrome-19-01-2023&quot;">
+      <created>1674148373679</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674148373679</updated>
+    </task>
+    <task id="LOCAL-00007" summary=" &quot;Sliding-Window SellStock 20-01-2023&quot;">
+      <created>1674229528160</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674229528160</updated>
+    </task>
+    <task id="LOCAL-00008" summary=" &quot;Sliding-Window LongSubstringnorepeat 22-01-2023&quot;">
+      <created>1674402198645</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674402198645</updated>
+    </task>
+    <task id="LOCAL-00009" summary=" &quot;Stack validParenthesis 27-01-2023&quot;">
+      <created>1674828725282</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674828725282</updated>
+    </task>
+    <task id="LOCAL-00010" summary=" &quot;Stack MINSTACK 28-01-2023&quot;">
+      <created>1674923150369</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674923150369</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" &quot;Stack MINSTACK 28-01-2023&quot;">
+      <created>1674923202807</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674923202807</updated>
+    </task>
+    <task id="LOCAL-00012" summary=" &quot;Stack GenerateParenthesis 29-01-2023&quot;">
+      <created>1675009170858</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675009170858</updated>
+    </task>
+    <task id="LOCAL-00013" summary=" &quot;Stack CarFleet 31-01-2023&quot;">
+      <created>1675183293557</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675183293557</updated>
+    </task>
+    <task id="LOCAL-00014" summary=" &quot;Stack daily temp 1-02-2023&quot;">
+      <created>1675270806916</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675270806916</updated>
+    </task>
+    <task id="LOCAL-00015" summary=" &quot;binary Search  2-02-2023&quot;">
+      <created>1675351895461</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675351895461</updated>
+    </task>
+    <task id="LOCAL-00016" summary=" &quot;kokoEatingBanana  4-02-2023&quot;">
+      <created>1675528069118</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675528069118</updated>
+    </task>
+    <task id="LOCAL-00017" summary=" &quot;MinUnsortedArray  7-02-2023&quot;">
+      <created>1675785461207</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675785461207</updated>
+    </task>
+    <task id="LOCAL-00018" summary=" &quot;canJump  8-02-2023&quot;">
+      <created>1675877573038</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675877573038</updated>
+    </task>
+    <task id="LOCAL-00019" summary=" &quot;gasStation  13-02-2023&quot;">
+      <created>1676228400007</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676228400007</updated>
+    </task>
+    <task id="LOCAL-00020" summary=" &quot;maximumSubarray  13-02-2023&quot;">
+      <created>1676312409302</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676312409302</updated>
+    </task>
+    <task id="LOCAL-00021" summary=" &quot;headsofstraight  15-02-2023&quot;">
+      <created>1676480099522</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676480099522</updated>
+    </task>
+    <task id="LOCAL-00022" summary=" &quot;false commit 16-02-2023&quot;">
+      <created>1676571285557</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1676571285557</updated>
+    </task>
+    <task id="LOCAL-00023" summary=" &quot;false commit 18-02-2023&quot;">
+      <created>1676659361333</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676659361333</updated>
+    </task>
+    <task id="LOCAL-00024" summary=" &quot;ValidParenthesisString 18-02-2023&quot;">
+      <created>1676736772073</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676736772073</updated>
+    </task>
+    <task id="LOCAL-00025" summary=" &quot;Climbing Stairs 19-02-2023&quot;">
+      <created>1676824333761</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1676824333761</updated>
+    </task>
+    <task id="LOCAL-00026" summary=" &quot;MinCostClimbingStairs 20-02-2023&quot;">
+      <created>1676917327890</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1676917327890</updated>
+    </task>
+    <task id="LOCAL-00027" summary=" &quot;HouseRobber 21-02-2023&quot;">
+      <created>1676998606733</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1676998606733</updated>
+    </task>
+    <task id="LOCAL-00028" summary=" &quot;HouseRobber-2 22-02-2023&quot;">
+      <created>1677088165185</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1677088165185</updated>
+    </task>
+    <task id="LOCAL-00029" summary=" &quot;CoinChange 27-02-2023&quot;">
+      <created>1677518423333</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1677518423333</updated>
+    </task>
+    <task id="LOCAL-00030" summary=" &quot;FALSE commit 1-03-2023&quot;">
+      <created>1677694527293</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1677694527293</updated>
+    </task>
+    <task id="LOCAL-00031" summary=" &quot;recursion 8-03-2023&quot;">
+      <created>1678299394032</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1678299394032</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,8 +307,52 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;10-01&quot;" />
-    <MESSAGE value="&quot;10-01-2023&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;10-01-2023&quot;" />
+    <MESSAGE value=" &quot;2-pointer-ValidPalindrome-19-01-2023&quot;" />
+    <MESSAGE value=" &quot;Sliding-Window SellStock 20-01-2023&quot;" />
+    <MESSAGE value=" &quot;Sliding-Window LongSubstringnorepeat 22-01-2023&quot;" />
+    <MESSAGE value=" &quot;Stack validParenthesis 27-01-2023&quot;" />
+    <MESSAGE value=" &quot;Stack MINSTACK 28-01-2023&quot;" />
+    <MESSAGE value=" &quot;Stack GenerateParenthesis 29-01-2023&quot;" />
+    <MESSAGE value=" &quot;Stack CarFleet 31-01-2023&quot;" />
+    <MESSAGE value=" &quot;Stack daily temp 1-02-2023&quot;" />
+    <MESSAGE value=" &quot;binary Search  2-02-2023&quot;" />
+    <MESSAGE value=" &quot;kokoEatingBanana  4-02-2023&quot;" />
+    <MESSAGE value=" &quot;MinUnsortedArray  7-02-2023&quot;" />
+    <MESSAGE value=" &quot;canJump  8-02-2023&quot;" />
+    <MESSAGE value=" &quot;gasStation  13-02-2023&quot;" />
+    <MESSAGE value=" &quot;maximumSubarray  13-02-2023&quot;" />
+    <MESSAGE value=" &quot;headsofstraight  15-02-2023&quot;" />
+    <MESSAGE value=" &quot;false commit 16-02-2023&quot;" />
+    <MESSAGE value=" &quot;false commit 18-02-2023&quot;" />
+    <MESSAGE value=" &quot;ValidParenthesisString 18-02-2023&quot;" />
+    <MESSAGE value=" &quot;Climbing Stairs 19-02-2023&quot;" />
+    <MESSAGE value=" &quot;MinCostClimbingStairs 20-02-2023&quot;" />
+    <MESSAGE value=" &quot;HouseRobber 21-02-2023&quot;" />
+    <MESSAGE value=" &quot;HouseRobber-2 22-02-2023&quot;" />
+    <MESSAGE value=" &quot;CoinChange 27-02-2023&quot;" />
+    <MESSAGE value=" &quot;FALSE commit 1-03-2023&quot;" />
+    <MESSAGE value=" &quot;recursion 8-03-2023&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value=" &quot;recursion 8-03-2023&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array_1_Dynamic/HouseRobber.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array_1_Dynamic/CoinChange.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Array_1_Dynamic/CoinChange.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
